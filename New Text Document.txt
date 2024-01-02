@@ -1,0 +1,7 @@
+
+
+*{
+
+backgrounx-color:aqua;
+color:brown;
+}
